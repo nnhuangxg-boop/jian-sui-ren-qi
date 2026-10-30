@@ -1,6 +1,6 @@
 # 剑随人起 · 试玩版 / Sword Chest – Test Build
 
-![剑随人起](docs/cover.png)
+https://github.com/user-attachments/assets/5479182b-f224-40d3-afec-95e7000a94f0
 
 国风修仙桌宠：一只剑匣待在桌面右下角，剑随你的电脑使用慢慢修炼。陪伴、成长、收藏、轻自律——74 把剑分属十条剑道。
 
